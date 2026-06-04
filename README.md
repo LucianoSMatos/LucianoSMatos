@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, seja bem-vindo(a) 👋
 
-<!--
-**LucianoSMatos/LucianoSMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Luciano Salustiano de Matos, Desenvolvedor Full Stack do Brasil 🇧🇷
 
-Here are some ideas to get you started:
+Apaixonado por criar aplicações web modernas e resolver problemas do mundo real por meio da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim
+
+- 🔭 Trabalhando em projetos pessoais e freelancers
+- 🌱 Estudando Node.js, React e Arquitetura de Software
+- 💡 Interessado em Desenvolvimento Web, APIs e Desenvolvimento FiveM
+- 🎯 Objetivo: Tornar-me um Desenvolvedor Full Stack Sênior
+
+### 🛠 Tecnologias
+
+Frontend:
+HTML | CSS | JavaScript
+
+Backend:
+PHP | Node.js
+
+Banco de Dados:
+MySQL
+
+Ferramentas:
+Git | GitHub | VS Code
+
+### 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/luciano-salustiano-de-matos-5033ba391/
+- E-mail: luciano99648557@gmail.com
+
+"Programar, aprender, evoluir e repetir." 🚀
