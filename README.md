@@ -24,6 +24,8 @@ Ferramentas:
 Git | GitHub | VS Code
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSMatos)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/luciano-salustiano-de-matos-5033ba391/
